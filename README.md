@@ -1,3 +1,7 @@
+# Reference
+![https://www.youtube.com/watch?v=Reny0cTTv24]
+The youtube video link above was used as source material and referenced as a code along to gain knowledge and experience in React.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
